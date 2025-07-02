@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Simple calculator app with complete UI and core arithmetic functionality.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots from the application 
+
+<h3>Calculator UI</h3>
+<img src="appImages/1.jpg" width="300"/>
